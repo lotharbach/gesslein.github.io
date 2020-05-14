@@ -1,0 +1,5 @@
+baseURL = "https://gesslein.github.io/"
+languageCode = "en-us"
+title = "gesslein.github.io"
+theme = "ananke"
+publishdir = "."
